@@ -6,4 +6,5 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added  
 - Initialized Project Repository  
 - Created CHANGELOG.md  
-
+- Implemented a _New_ Feature on a *Local _Topic Branch_*  
+- Refactored _New_ Feature on a *Local _Topic BRanch_*  
